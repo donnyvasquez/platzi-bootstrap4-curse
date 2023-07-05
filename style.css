@@ -26,7 +26,7 @@ footer{
     background: linear-gradient(90deg, #000000dd, transparent);
 }
 .carousel-item img{
-    object-fit: hidden;
+    object-fit: cover;
 }
 .carousel-caption {
   right: 0;
